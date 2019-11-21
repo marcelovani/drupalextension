@@ -1,0 +1,12 @@
+diff --git a/composer.json b/composer.json
+index d7d75ae..0f5214f 100644
+--- a/composer.json
++++ b/composer.json
+@@ -19,7 +19,6 @@
+     "behat/mink-extension": "~2.0",
+     "behat/mink-goutte-driver": "~1.0",
+     "behat/mink-selenium2-driver": "~1.1",
+-    "drupal/drupal-driver": "dev-master",
+     "symfony/dependency-injection": "~2.7|~3.0",
+     "symfony/event-dispatcher": "~2.7|~3.0"
+   },
